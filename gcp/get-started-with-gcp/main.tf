@@ -15,7 +15,7 @@ provider "google" {
 }
 
 resource "google_storage_bucket" "gs1" {
-  name = "bucket-from-tf-up"
+  name = "bucket-from-tf-usrpwd"
   location = "ASIA"
   force_destroy = true
 }
