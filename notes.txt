@@ -1,1 +1,5 @@
 https://github.com/ankit25587/course-material/tree/main/05-terraform-for-beginners-using-google-cloud
+
+gcloud auth application-default login
+
+gcloud auth list
